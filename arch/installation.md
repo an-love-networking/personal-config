@@ -1,3 +1,3 @@
 ## Personal Arch installation
-- Use `archinstall` and use `linux-zen` kernel.
-- ```sudo pacman -S nvidia-prime lib32-nvidia-utils```
+- Use `archinstall` and use `linux|linux-lts` kernel.
+- Use a default disk configuration.
