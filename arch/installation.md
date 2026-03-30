@@ -1,6 +1,7 @@
 # Arch Linux setup
 1. In USB boot
-- ```bash
+-
+```bash
 pacman-key --init
 pacman-key --populate archlinux
 # connect to wifi
